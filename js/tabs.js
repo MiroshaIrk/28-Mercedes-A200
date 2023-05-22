@@ -14,6 +14,7 @@ export function tabs() {
         } else {
           item.classList.add('hidden');
         }
+
       });
     });
   }
