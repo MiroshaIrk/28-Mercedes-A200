@@ -1,0 +1,23 @@
+{
+  "name": "28-mercedes-a200",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiroshaIrk/28-Mercedes-A200.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiroshaIrk/28-Mercedes-A200/issues"
+  },
+  "homepage": "https://github.com/MiroshaIrk/28-Mercedes-A200#readme",
+  "devDependencies": {
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
